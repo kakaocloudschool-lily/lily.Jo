@@ -1,0 +1,10 @@
+자격증
+아직 없습니다
+
+대외활동
+스프링부트를 이용한 ios 캘린더 앱(백엔드) 만들기
+2022 소프트웨어학부 학과 부회장직
+졸업작품으로 코틀린을 이용한 키오스크 체험 앱
+
+사용기술
+react-native, typescript, kotlin, android, spring-boot
